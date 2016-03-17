@@ -1,7 +1,8 @@
 ---
 layout: post
-title: You're up and running!
+title: Timeline
 ---
 
-This is the first page of the longtravel website.
+Details about the project timeline
+
 In the blog area
