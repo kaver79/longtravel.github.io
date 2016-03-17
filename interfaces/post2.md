@@ -6,4 +6,4 @@ title: more details
 
 # {{ page.title }}
 
-This page has more details about interfaces
+This page has more details about interfaces. In the interface dir
