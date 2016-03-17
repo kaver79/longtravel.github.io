@@ -1,5 +1,6 @@
 ---
 title: interface entry page
+permalink: /interfaces/
 ---
 {{page.title}}
 
