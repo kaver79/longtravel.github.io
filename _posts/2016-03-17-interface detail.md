@@ -1,6 +1,7 @@
 ---
 title: interface detail
 permalink: interfaces
+layout: default
 ---
 
 {{page.title}}
