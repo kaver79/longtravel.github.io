@@ -1,7 +1,7 @@
 ---
 title: interface entry page
 ---
-# {{ page.title }}
+{{page.title}}
 
 This page will serve as the entry point for interfaces
 
